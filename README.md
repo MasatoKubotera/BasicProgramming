@@ -1,2 +1,7 @@
 # BasicProgramming
-金曜3-4限 プログラミング基礎
+
+動作環境：
+
+コンパイル：gcc -lm osero.c -ldrawlib
+
+実行： ./a.out
