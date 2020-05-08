@@ -1,4 +1,4 @@
-# BasicProgramming
+# Othello-ubuntu
 
 動作環境：ubuntu + drawlib
 
