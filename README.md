@@ -1,4 +1,4 @@
-# Othello-ubuntu
+# Othello
 
 動作環境：ubuntu + drawlib
 
