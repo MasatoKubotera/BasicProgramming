@@ -1,7 +1,7 @@
 # Othello
 
-動作環境：ubuntu + drawlib
+- 動作環境：ubuntu + drawlib
 
-コンパイル：gcc -lm Othello.c -ldrawlib
+- コンパイル：`$ gcc -lm Othello.c -ldrawlib`
 
-実行： ./a.out
+- 実行： `$ ./a.out`
